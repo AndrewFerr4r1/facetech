@@ -5,9 +5,13 @@ body {
     width: 100%;
     min-width: auto;
     height: auto;
-    min-height: 600px;
+    min-height: 700px;
     background-color: #fff;
     background-image: -webkit-linear-gradient(30deg, #fff 50%, #2464a0 50%);
+}
+
+html, body{
+    overflow-x: hidden;
 }
 
 .meio {
